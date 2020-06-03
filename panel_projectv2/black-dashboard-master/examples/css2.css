@@ -1,0 +1,21 @@
+.bar{
+	position: relative;
+	background-color: darkorange;
+	height: 15px;
+	width: 100%;
+}
+.padding{
+	padding-top: 5px;
+	padding-left: 20px;
+}
+.navbar ul li:hover a{
+	text-decoration: none;
+	display: block;
+	background-color: darkorange;
+}
+.padding2{
+	padding-top: 5px;
+}
+.paddingbawah{
+	padding-bottom: 10px;
+}
